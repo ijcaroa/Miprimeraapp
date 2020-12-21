@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App ijcaroa</string>
+    <string name="label_button">My Button</string>
+    <string name="name">Name</string>
+    <string name="Saludo">This  is my fisrt app</string>
+</resources>
