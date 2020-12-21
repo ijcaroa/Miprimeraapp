@@ -3,4 +3,6 @@
     <string name="label_button">Mi botoncito</string>
     <string name="name">Nombre</string>
     <string name="Saludo">Esta es mi primera app.</string>
+    <string name="button">Suma</string>
+    <string name="button2">Multiplica</string>
 </resources>
